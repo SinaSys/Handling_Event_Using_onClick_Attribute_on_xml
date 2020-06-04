@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Handling_Event_Using_onClick_Attribute_on_xml.iml" filepath="$PROJECT_DIR$/Handling_Event_Using_onClick_Attribute_on_xml.iml" group="Handling_Event_Using_onClick_Attribute_on_xml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Handling_Event_Using_onClick_Attribute_on_xml/app" />
+    </modules>
+  </component>
+</project>
